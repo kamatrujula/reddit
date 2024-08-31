@@ -11,7 +11,7 @@ reddit = praw.Reddit(
     client_secret="write your secret",
     password="write your password",
     user_agent="aitascraper",
-    username="Alternative-Bank2687",
+    username="write your username",
 )
 
 #print(reddit.user.me())
@@ -64,4 +64,3 @@ jsonFile.close()
 
 print("Script executed successfully\n")
 #run using 'python scrapingtool.py'
-
